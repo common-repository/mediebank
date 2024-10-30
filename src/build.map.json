@@ -1,0 +1,8 @@
+{
+  "src/pages/SettingsPage.js": "assets/build/index.js",
+  "src/pages/GalleryPage.js": "assets/build/index.js",
+  "src/components/gallery/AssetGallery.jsx": "assets/build/index.js",
+  "src/components/gallery/AssetSearch.jsx": "assets/build/index.js",
+  "src/components/gallery/NotConfigured.jsx": "assets/build/index.js",
+  "src/components/gallery/SearchField.jsx": "assets/build/index.js"
+}

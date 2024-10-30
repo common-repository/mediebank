@@ -1,0 +1,158 @@
+# Copyright (C) 2024 NTB AS
+# This file is distributed under the GPL3.
+msgid ""
+msgstr ""
+"Project-Id-Version: Mediebank Integration (NTB, TT) 1.0.0\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/plugin/ntb-mediebank-integration\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-03-12T14:30:14+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.9.0\n"
+"X-Domain: mediebank\n"
+
+#. Plugin Name of the plugin
+msgid "Mediebank Integration (NTB, TT)"
+msgstr ""
+
+#. Description of the plugin
+msgid "Integrates your Mediebank with WordPress"
+msgstr ""
+
+#. Author of the plugin
+msgid "NTB AS"
+msgstr ""
+
+#: includes/Mediebank.php:114
+msgid "Settings"
+msgstr ""
+
+#: includes/Mediebank.php:122
+#: includes/Mediebank.php:123
+#: includes/Mediebank.php:140
+#: includes/Mediebank.php:141
+#: includes/Mediebank.php:287
+#: includes/Mediebank.php:291
+#: src/components/gallery/AssetSearch.jsx:302
+#: src/components/gallery/NotConfigured.jsx:11
+#: src/lib/media-frame.js:23
+#: src/lib/media-frame.js:59
+msgid "Mediebank"
+msgstr ""
+
+#: includes/Mediebank.php:195
+msgid "Mediebank ID"
+msgstr ""
+
+#: includes/pages/gallery.php:6
+#: includes/pages/settings.php:6
+msgid "You do not have sufficient capabilities to access this page."
+msgstr ""
+
+#: src/components/gallery/AssetGallery.jsx:102
+msgid "Sync"
+msgstr ""
+
+#: src/components/gallery/AssetGallery.jsx:103
+msgid "Download"
+msgstr ""
+
+#. translators: %s file extension/format
+#: src/components/gallery/AssetGallery.jsx:111
+msgid "The file format \"%s\" does not work with WordPress."
+msgstr ""
+
+#: src/components/gallery/AssetGallery.jsx:113
+msgid "Missing title"
+msgstr ""
+
+#: src/components/gallery/AssetGallery.jsx:114
+msgid "Missing description"
+msgstr ""
+
+#: src/components/gallery/AssetGallery.jsx:148
+msgid "Error"
+msgstr ""
+
+#: src/components/gallery/AssetGallery.jsx:149
+msgid "In library"
+msgstr ""
+
+#: src/components/gallery/AssetSearch.jsx:61
+msgid "Sync to WordPress"
+msgstr ""
+
+#: src/components/gallery/AssetSearch.jsx:68
+msgid "Add/sync to WordPress"
+msgstr ""
+
+#: src/components/gallery/AssetSearch.jsx:71
+msgid "Add to WordPress"
+msgstr ""
+
+#. translators: %s amount of selected assets
+#: src/components/gallery/AssetSearch.jsx:237
+msgid "%s asset selected"
+msgid_plural "%s assets selected"
+msgstr[0] ""
+msgstr[1] ""
+
+#: src/components/gallery/AssetSearch.jsx:294
+#: src/components/gallery/SearchField.jsx:15
+msgid "Clear search"
+msgstr ""
+
+#: src/components/gallery/NotConfigured.jsx:28
+msgid "Not configured"
+msgstr ""
+
+#: src/components/gallery/NotConfigured.jsx:31
+msgid "You need to configure your Mediebank settings in order to access your gallery."
+msgstr ""
+
+#: src/components/gallery/NotConfigured.jsx:38
+msgid "Go to the settings"
+msgstr ""
+
+#: src/pages/SettingsPage.js:46
+msgid "General settings"
+msgstr ""
+
+#: src/pages/SettingsPage.js:54
+msgid "Provider"
+msgstr ""
+
+#: src/pages/SettingsPage.js:76
+msgid "This field is required"
+msgstr ""
+
+#: src/pages/SettingsPage.js:82
+msgid "API keys"
+msgstr ""
+
+#: src/pages/SettingsPage.js:86
+msgid "You can create a set of API keys in your Mediebank's \"Organization Settings\" -> \"API Clients\" area."
+msgstr ""
+
+#: src/pages/SettingsPage.js:97
+msgid "API Client ID"
+msgstr ""
+
+#: src/pages/SettingsPage.js:113
+msgid "API Client Secret"
+msgstr ""
+
+#: src/pages/SettingsPage.js:131
+msgid "Settings saved. Successfully connected to the Mediebank API."
+msgstr ""
+
+#: src/pages/SettingsPage.js:144
+msgid "There was an error connecting to the Mediebank API. Please check that your Client ID and Client Secret are correct."
+msgstr ""
+
+#: src/pages/SettingsPage.js:152
+msgid "Save"
+msgstr ""
